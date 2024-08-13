@@ -1,0 +1,146 @@
+{
+  "sections": {
+    "image_with_text_overlay_m66tfh": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "richtext_947Bae": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Schau dir unsere neuesten Taschen an<\/p>"
+          }
+        },
+        "heading_4AqpXn": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>SUMMER COLLECTION DROP<\/strong>",
+            "heading_tag": "h4"
+          }
+        },
+        "button_wAcmXc": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Bin Dabei.",
+            "url": "shopify:\/\/collections\/unsere-bags",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_947Bae",
+        "heading_4AqpXn",
+        "button_wAcmXc"
+      ],
+      "settings": {
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/Design_ohne_Titel_-_2024-07-10T184534.252.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/25cm_34_1.png",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_7hpUPy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4VRUaA": {
+          "type": "heading",
+          "settings": {
+            "text": "Die perfekten Alltagstaschen",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_k3zxFF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Wir beginnen den Frühling mit unserem größten Sale! Bis zu <strong>60% RABATT <\/strong>auf unsere ganze Kollektion!<\/p>"
+          }
+        },
+        "button_rqtHBt": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "ZEIGS MIR",
+            "url": "shopify:\/\/collections\/unsere-bags",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4VRUaA",
+        "richtext_k3zxFF",
+        "button_rqtHBt"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-3",
+            "products_count": 4,
+            "title": "Unsere Bestseller",
+            "link_url": "shopify:\/\/collections\/unsere-bags",
+            "link_text": "Bring mich hin!"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "172045456540a926c1": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_y7aqeR": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_y7aqeR"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_m66tfh",
+    "rich_text_7hpUPy",
+    "featured-collections",
+    "172045456540a926c1"
+  ]
+}
